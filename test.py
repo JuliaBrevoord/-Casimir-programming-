@@ -1,5 +1,5 @@
 print('Hello world!')
 import numpy as np
 
-def circumference(r):
+def circle_circumference(r):
     return 2*np.pi*r
